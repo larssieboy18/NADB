@@ -1,0 +1,14 @@
+workflow:
+- .github/workflows/**/*
+- .github/labeler.yml
+
+documentation:
+- README.md
+- LICENSE
+
+dependencies:
+- package.json
+- .github/renovate.json
+
+code:
+- src/**/*
