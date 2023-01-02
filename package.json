@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "scripts": {
     "start": "node ./src/bot.js",
-    "debug": "node ./src/debug.js"
   },
   "description": "",
   "keywords": [],
