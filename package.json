@@ -1,0 +1,21 @@
+{
+  "name": "NADB",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./src/bot.js",
+  },
+  "description": "",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "author": "larssieboy18 <3jsijawsm@mozmail.com>",
+  "dependencies": {
+    "discord.js": "14.7.1",
+    "dotenv": "16.0.3",
+    "fs-extra": "11.1.0"
+  },
+  "homepage": "https://github.com/larssieboy18/NADB",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larssieboy18/NADB"
+  }
+}
